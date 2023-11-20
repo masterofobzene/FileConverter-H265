@@ -1,3 +1,4 @@
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
 # File Converter
 
 ## Description
@@ -11,3 +12,4 @@ You can find more information about what's in File converter and how to use it o
 
 File Converter is the work of [Tichau](https://github.com/Tichau)
 You can help him by contributing to the [project](https://github.com/Tichau/FileConverter/wiki#contribute), by making a [donation](https://www.paypal.com/donate/?cmd=_donations&business=3BDWQTYTTA3D8&item_name=File+Converter+Donations&currency_code=EUR&Z3JncnB0=) or just by saying [thanks](https://saythanks.io/to/Tichau)​ :).
+
