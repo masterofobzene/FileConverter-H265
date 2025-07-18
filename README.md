@@ -1,3 +1,6 @@
+> [!NOTE]
+> I moved to linux, so I won't be maintaining this repo. If you want to continue this, just use the original source and fork it; the only changes made are the ffmpeg commands used and the added supported extensions. I also faced all kinds of problems with the old source not being able to compile, maybe that was fixed in newer source.
+
 # File Converter
 
 ## Description
