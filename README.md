@@ -1,6 +1,9 @@
 > [!NOTE]
 > Well... back in Windows 10!. My god what an awful OS linux is... it doesn't have software... community is super fanatic, in my short stay I was filling the holes all the time, fixing what should be working out of the box. So here I am in windows again, feels much more mature.
 
+> [!NOTE]
+> I am currently not developing this app anymore due to it being more complex than simple scripts made with LLMs. I've made a [shell extension app](https://github.com/masterofobzene/ShellCommand) to launch scripts from the context menu, you can make your scripts (bat, powershell, python) using LLM's and store them in specific folders so they appear on your context menu meaning you can simply create scripts to convert files using FFMPG, for all the formats you need and has more posibilities since scripts are way more flexible than an app.
+
 # File Converter
 
 ## Description
