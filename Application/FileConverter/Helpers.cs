@@ -51,6 +51,7 @@ namespace FileConverter
                     return InputCategoryNames.Audio;
 
                 case "3gp":
+                case "3gpp":
                 case "avi":
                 case "bik":
                 case "flv":
@@ -69,6 +70,7 @@ namespace FileConverter
                 case "bmp":
                 case "exr":
                 case "ico":
+                case "jfif":
                 case "jpg":
                 case "jpeg":
                 case "png":
